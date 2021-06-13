@@ -1,4 +1,4 @@
-# BCA-Sci-Practical_Slips-
+# BCA-Sci-Practical_Slips
 FY BCA(Sci) Sem-1 Practical Slips
 
 This repository contens the Practical slips solution of FY BCA(Sci)- Sem-1  Programming in C
