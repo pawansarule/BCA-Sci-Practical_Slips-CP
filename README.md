@@ -126,8 +126,8 @@ lowercasealphabet, uppercase alphabet orspecialsymbol.
       A
 
 25. Write a menu driven program to perform the following operations on an integer array:
-   1. display the count and sum of even elements.
-   2. display the count and sum of odd elements.
+    1. display the count and sum of even elements.
+    2. display the count and sum of odd elements.
 
 ## Function
 
