@@ -96,15 +96,15 @@ lowercasealphabet, uppercase alphabet orspecialsymbol.
 17. Write a program to accept characters from the user and count total alphabet and digit till the user enters‘$’.
 18. Write C Program to convert decimal to octal number.
 19. Accept two numbers in variable x and y from user and perform the following operations.
-  Options
-  1. Equality 
-  2. Less Than 
-  3. Range
-  4. Swap
-    Actions
-    Check if x is equal to y.
-    Check if x is less than y.
-    Display all numbers between x and y. Interchange x and y.
+  - Options
+    1. Equality 
+    2. Less Than 
+    3. Range
+    4. Swap
+  - Actions
+    1. Check if x is equal to y.
+    2. Check if x is less than y.
+    3. Display all numbers between x and y. Interchange x and y.
 
 20. Write C Program to check given number is Perfect number or not.
 21. Write C Program to count total number of digits, even digits and odd digits in given number. (Example: If number=418 then output will be total digits =3, total odd digit(s) =1and total even digit(s) =2)
@@ -112,14 +112,17 @@ lowercasealphabet, uppercase alphabet orspecialsymbol.
     i. Find sum of first N numbers
     ii. Find sum of first and last digit of number N 
 23. Write C Program to print the following pattern:
-      *
-      * *  
-      * * *
+ 
 24. Write C Program to print the following pattern: :wq!
+      
       A B C D E 
+      
       A B C D 
+      
       A B C
+      
       A B
+      
       A
 
 
