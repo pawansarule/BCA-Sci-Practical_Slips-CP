@@ -1,7 +1,8 @@
 # FY BCA-Sci-Practical_Slips
  
 
-This repository contens the Practical slips solution of FY BCA(Sci)- Sem-1 for Programming in C By Savitribai Phule Pune University
+This repository contens the Practical slips solution of FY BCA(Sci) Sem-1 2019 Credit Pattern
+ of Programming in C By Savitribai Phule Pune University
  
  All the practical divided into 5 section i.e
  1) Simple Program
