@@ -12,7 +12,7 @@ This repository contens the Practical slips solution of FY BCA(Sci)- Sem-1 for P
 
 
  
-Simple Program
+- Simple Program
 
 Q1. Write a C program to read an integer and display the message as “Positive Number”, “Negative Number” or “Zero Value” opening on the value of the given number. Use ternary operator.
 
@@ -41,7 +41,7 @@ Q11. Write a ‘C’ program to accept an integer. Display its square on
 the first line. Cube on the second line and square root on the third line.
 
 
-Simple if-else and Switch case Program
+- Simple if-else and Switch case Program
 
 Q1.Write C Program to input week number (1-7) and print day of week name using switch case.
 
@@ -65,7 +65,7 @@ Q.9. Write a ‘C’ program to check whether a given character is a VOWEL or CO
 Q.10. Write C Program to accept year and check whether year is leap yearornot.
 
 
-Control Structure
+- Control Structure
 
 Q1) Write ‘C’ program to accept a number from user and display its table. 
 
@@ -146,7 +146,7 @@ Q24) Write C Program to print the following pattern: :wq!
 
 
 
-Function
+- Function
 
 Q1) Write a function to display Fibonacci series upto number n.
  
@@ -171,7 +171,7 @@ Q10) Write a menu driven program to perform the following operations on a charac
       ii. Convert it to lower case
 
 
-Array
+- Array
 
 Q1) Write C Program to accept two dimensional matrix and display transpose of matrix.
 
