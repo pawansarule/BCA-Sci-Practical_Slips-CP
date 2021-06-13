@@ -44,15 +44,24 @@ the first line. Cube on the second line and square root on the third line.
 ## Simple if-else and Switch case Program
 
 1. Write C Program to input week number (1-7) and print day of week name using switch case.
+
 2. Write a program to accept integer and check if it is evenoradd.
+
 3. Write C Program to accept a character is input and check whether it is digit,
 lowercasealphabet, uppercase alphabet orspecialsymbol.
+
 4. Accept three numbers from users and display the greatest numberamongthem. 
+
 5. Write a program to accept a number and check if is divisible by 5and7. 
+
 6. Write C Program to check whether given character is vowelor consonant. 
+
 7. Accept a character from user and whether it is in uppercaseorlowercase.
+
 8. Write a ‘C’ program to accept any alphabet. Change its case and display the changed case.
+
 9. Write a ‘C’ program to check whether a given character is a VOWEL or CONSONANT using switch-casestatement.
+
 10. Write C Program to accept year and check whether year is leap yearornot.
 
 
@@ -182,5 +191,4 @@ elements. Also find their sum and average.
 16. Write C Program to find and store square of each element of one matrix into other matrix 
 
 17. Write C Program to copy all elements of one array into another array using function.
-
-Q17) Write C Program to copy all elements of one array into another array using function.
+ 
