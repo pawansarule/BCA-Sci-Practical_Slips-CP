@@ -5,8 +5,8 @@ This repository contens the Practical slips solution of FY BCA(Sci)- Sem-1  Prog
  
 Simple Program
 
-Q1. Write a C program to read an integer and display the message as “Positive Number”, “Negative Number” or “Zero Value” opening on the value of the given number. Use ternary operator.
-Q2. Write C Program to check given number is positive or negative using ternary operator.
+#Q1. Write a C program to read an integer and display the message as “Positive Number”, “Negative Number” or “Zero Value” opening on the value of the given number. Use ternary operator.
+#Q2. Write C Program to check given number is positive or negative using ternary operator.
 Q3. Write C Program to find roots of quadratic equation Ax2+Bx+C. Q4. Write a ‘C’ program to accept the values of two sides of a shape.
 Check whether it is a square or rectangle. Display its area.
 Q5. Write a C program to find volume of sphere.
