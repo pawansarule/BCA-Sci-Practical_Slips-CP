@@ -1,7 +1,16 @@
-# BCA-Sci-Practical_Slips
-FY BCA(Sci) Sem-1 Practical Slips
+# FY BCA-Sci-Practical_Slips
+ 
 
-This repository contens the Practical slips solution of FY BCA(Sci)- Sem-1  Programming in C
+This repository contens the Practical slips solution of FY BCA(Sci)- Sem-1 for Programming in C By Savitribai Phule Pune University
+ 
+ All the practical divided into 5 section i.e
+ 1) Simple Program
+ 2) Simple if-else and Switch case Program
+ 3) Control Structure
+ 4) Function
+ 5) Array
+
+
  
 Simple Program
 
